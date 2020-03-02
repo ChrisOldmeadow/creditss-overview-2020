@@ -25,4 +25,6 @@ title-slide-attributes:
 # Contact us
 
 ![Business Admin Manager](michelle_g_220.jpg)
-<br> <br> Michelle.Gillam@hmri.org.au
+<br> <br> 
+<i class="far fa-envelope"></i> Michelle.Gillam@hmri.org.au
+<i class="fas fa-phone"></i>  40420500
