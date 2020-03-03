@@ -4,7 +4,7 @@ subtitle: " "
 author: "Chris oldmeadow"
 output:
   xaringan::moon_reader:
-    css: ["custom.css", "default"]
+    css: ["custom.css", "default","middlebury", "middlebury-fonts"]
     nature:
       ratio: "16:9"
     seal: false
@@ -15,6 +15,10 @@ output:
 knitr::opts_chunk$set(fig.retina = 3)
 ```
 
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
 
 class: title-slide   
 
@@ -22,7 +26,14 @@ class: title-slide
 
 
 --
-## Clinical Research Design IT and Statistical Services
+## .saltinline[C]linical .saltinline[Re]search .saltinline[D]esign .saltinline[IT] and .saltinline[S]tatistical .saltinline[S]ervices
+
+
+
+--
+
+.opacity[Mission:  Reliable, innovative, and collaborative data analytic solutions]
+
 
 
 
@@ -34,7 +45,7 @@ background-position: bottom right
 background-size: 10%    
 
 ---
-class: inverse , center
+class: center
 # Who are we?
 
 ```{r out.width = '35%', echo=FALSE}
@@ -43,26 +54,43 @@ knitr::include_graphics("team.PNG")
 
 ```
 
-* .heatinline[**Come speak to us sooner rather than later!**]
+
+
+
+ .heatinline[**Come speak to us sooner rather than later!**]
 
 ---
-class: inverse
+class: 
 # Our Services
 
-* Trial design  
-* Redcap database development
-* Dashboards (static, interactive, password access)
-* Analyses: **Bayesian** or Frequentist
-* Data visualisation and reporting
+--
+### `r fa("lightbulb")`Trial design  
+
+--
+
+### `r fa("database")` Redcap database development
+
+
+--
+
+### `r fa("bolt")` Randomisation
+
+--
+### `r fa("tachometer-alt")` Dashboards 
+
+--
+### `r fa("laptop")`  Analyses 
+
+--
+
+### `r fa("chart-line")` Data visualisation and reporting
 
 ---
  
 # Contact us
 
 
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
+
 
 ![Business Admin Manager](michelle_g_220.jpg)
 <br> <br> 
