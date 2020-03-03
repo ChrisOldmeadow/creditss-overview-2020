@@ -67,6 +67,11 @@
 }
 
 
+.title-slide {
+  background-image: url("creditss_light.jpg");
+  background-size: cover;
+
+}
 .title-slide h1, h2,  h3 {
   text-align: center;
   color: black;
