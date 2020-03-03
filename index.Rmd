@@ -1,0 +1,70 @@
+---
+title: "CReDITSS"
+subtitle: " "
+author: "Chris oldmeadow"
+output:
+  xaringan::moon_reader:
+    css: ["custom.css", "default"]
+    nature:
+      ratio: "16:9"
+    seal: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.retina = 3)
+```
+
+
+class: title-slide   
+
+# CReDITSS
+
+
+--
+## Clinical Research Design IT and Statistical Services
+
+
+
+---
+
+layout: true
+background-image: url(HMRI_logo_col.png.png)
+background-position: bottom right
+background-size: 10%    
+
+---
+class: inverse , center
+# Who are we?
+
+```{r out.width = '35%', echo=FALSE}
+# url
+knitr::include_graphics("team.PNG") 
+
+```
+
+* .heatinline[**Come speak to us sooner rather than later!**]
+
+---
+class: inverse
+# Our Services
+
+* Trial design  
+* Redcap database development
+* Dashboards (static, interactive, password access)
+* Analyses: **Bayesian** or Frequentist
+* Data visualisation and reporting
+
+---
+ 
+# Contact us
+
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+![Business Admin Manager](michelle_g_220.jpg)
+<br> <br> 
+`r fa("envelope")` Michelle.Gillam@hmri.org.au <br></br>
+`r fa("phone")`  40420500
