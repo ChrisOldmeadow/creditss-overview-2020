@@ -83,4 +83,4 @@ class: middle
 
 ![Business Admin Manager](michelle_g_220.jpg)
 <br> <br> 
-`r fa("book")` Book an appointment: https://redcap.link/HMRI_REDCap_newuser
+`r fa("book")` Book consultation: https://redcap.hmri.org.au/surveys/?s=WXNMDXHLMH
