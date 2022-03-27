@@ -83,5 +83,4 @@ class: middle
 
 ![Business Admin Manager](michelle_g_220.jpg)
 <br> <br> 
-`r fa("envelope")` Michelle.Gillam@hmri.org.au <br></br>
-`r fa("phone")`  40420500
+`r fa("book")` Book an appointment:  https://github.com/ChrisOldmeadow/creditss-overview-2020.git
